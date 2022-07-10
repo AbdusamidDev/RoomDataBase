@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Room</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="text">Text</string>
+    <string name="save">Save</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+</resources>
